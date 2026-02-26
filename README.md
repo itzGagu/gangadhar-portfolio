@@ -1,4 +1,4 @@
-# Gangadhar S B — Developer Portfolio
+# Gangadhar sampath — Developer Portfolio
 
 A personal developer portfolio website built with HTML, CSS, and JavaScript.
 
@@ -14,7 +14,7 @@ Built from scratch with a clean dark theme, smooth animations, and fully respons
 - JavaScript
 
 ## Sections
-- Hero — Introduction and quick links
+- Home — Introduction and quick links
 - About — Background and stats
 - Skills — Tech stack overview
 - Experience — EA and Commonwealth Bank simulations
