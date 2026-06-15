@@ -1,4 +1,4 @@
-# Gangadhar sampath — Developer Portfolio
+# Gangadhar sampath  Developer Portfolio
 
 A personal developer portfolio website built with HTML, CSS, and JavaScript.
 
@@ -14,12 +14,12 @@ Built from scratch with a clean dark theme, smooth animations, and fully respons
 - JavaScript
 
 ## Sections
-- Home — Introduction and quick links
-- About — Background and stats
-- Skills — Tech stack overview
-- Experience — EA and Commonwealth Bank simulations
-- Projects — What I've built
-- Contact — LinkedIn, GitHub, and Email
+- Home  Introduction and quick links
+- About  Background and stats
+- Skills  Tech stack overview
+- Experience  EA and Commonwealth Bank simulations
+- Projects  What I've built
+- Contact  LinkedIn, GitHub, and Email
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/gangadharsb1/
