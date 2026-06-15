@@ -2,7 +2,7 @@
 
 A personal developer portfolio website built with HTML, CSS, and JavaScript.
 
-🌐 **Live Site:** https://itzgagu.github.io/gangadhar-portfolio/
+🌐 Live Site: https://itzgagu.github.io/gangadhar-portfolio/
 
 ## About
 This portfolio showcases my skills, experience, and projects as a Full-Stack Developer.
